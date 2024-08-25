@@ -1,0 +1,162 @@
+html,body{
+    font-family: "Lilita One", sans-serif;
+    width: 100vw;
+    height: 98vh;
+    background-color: whitesmoke;
+}
+#a{
+    width: 97vw;
+    height: 90vh;
+    background-color: peachpuff;
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    left: 5px;
+    border-bottom-left-radius: 30px;
+}
+#b {
+    font-size: 70px;
+    left: 100px;
+    position: relative;
+    top: 20px;
+}
+#c {
+          position: relative;
+          display: flex;
+          list-style-type: none;
+          text-decoration: none;
+          margin: 30px;
+          left: 200px;
+          top: -40px;
+}
+a{
+    text-decoration: none;
+    color: rgb(27, 27, 82);
+}
+li{
+    margin-left: 30px;
+}
+#d {
+    position: relative;
+    left: -50px;
+}
+#e{
+    position: relative;
+    left: -30px;
+}
+#f{
+    position: relative;
+    left: -10px;
+}
+#g{
+    position: relative;
+}
+#h{
+    background-color: rgb(253, 253, 253);
+    width: 15rem;
+    height: 3rem;
+    outline: none;
+    border-radius: 25px;
+    margin-left: 630px;
+    margin-top: -100px;
+}
+#i{
+    position: relative;
+    top: 15px;
+    left: 15px;
+}
+#h::placeholder{
+    color: gray;
+    top: 15px;
+}
+#o{
+    position: relative;
+    left: 200px;
+}
+#aa{
+    position: absolute;
+    font-size: 50px;
+    margin-top: 160px;
+    margin-left: 100px;
+    color: rgb(27, 27, 82);
+}
+#ab{
+    position: absolute;
+    font-size: 43px;
+    margin-top: 240px;
+    margin-left: 100px;
+    color: rgb(27, 27, 82);
+}
+#ac{
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 100px;
+}
+#ad{
+    position: absolute;
+    margin-top: 410px;
+    margin-left: 100px;
+    border: rgb(27, 27, 82) 1px solid ;
+    color: rgb(27, 27, 82);
+    padding: 15px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+#ae{
+    margin-top: 410px;
+    margin-left: 250px;
+    border: rgb(27, 27, 82) 1px solid ;
+    color: rgb(27, 27, 82);
+    padding: 15px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+#axe {
+    display: flex;
+    flex-direction: column;
+}
+#apple{
+    display: flex;
+
+}
+#asa{
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+#ass{
+    position: relative;
+    top: 20px;
+    left: 50px;
+    color: rgb(27, 27, 82);
+}
+#asd{
+    width: 97vw;
+    height: 50vh;
+    background-color: peachpuff;
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    left: 5px;
+    border-radius: 30px;
+}
+#asees{
+    width: 97vw;
+    height: 60vh;
+    background-color: peachpuff;
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    left: 5px;
+    border-radius: 30px;
+}
+#er{
+    position: relative;
+    font-size: 70px;
+    color: rgb(27, 27, 82);
+    left: 50px;
+}
